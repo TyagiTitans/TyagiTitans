@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TyagiTitans
+- 👋 Hi, I’m Adelik Om Tyagi
 - 👀 I am a 3rd-Yr Information Technology Undergrad at IIIT Allahabad who likes to learn and explore new things.
 -  I am an active competitive programmer with nice problem-solving skills and a good understanding of data structures and algorithms. 
 -  I am passionate about tech and learning and have experience by working on technologies like  HTML, CSS, JavaScript, Bootstrap, MySQL, JAVA and more.
